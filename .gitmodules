@@ -1,3 +1,6 @@
 [submodule "BigDL"]
-	path = BigDL
-	url = https://github.com/intel-analytics/BigDL
+path=BigDL
+url = https://github.com/intel-analytics/BigDL
+[submodule "data-science-ipython-notebooks"]
+	path = data-science-ipython-notebooks
+	url = https://github.com/donnemartin/data-science-ipython-notebooks
