@@ -7,9 +7,12 @@ url = https://github.com/intel-analytics/BigDL
 [submodule "data-science-ipython-notebooks"]
 path=data-science-ipython-notebooks
 url = https://github.com/donnemartin/data-science-ipython-notebooks
+[submodule "EECS-6895-Stock_Prediction_using_StockTwits_Dataset"]
+	path = EECS-6895-Stock_Prediction_using_StockTwits_Dataset
+	url = https://github.com/Sapphirine/EECS-6895-Stock_Prediction_using_StockTwits_Dataset
 [submodule "GPU-accelerated_relational_data_mining_on_single_nodes"]
 path=GPU-accelerated_relational_data_mining_on_single_nodes
 url = https://github.com/Sapphirine/GPU-accelerated_relational_data_mining_on_single_nodes
 [submodule "Swift-HAR"]
-	path = Swift-HAR
-	url = https://github.com/Sapphirine/Swift-HAR
+path=Swift-HAR
+url = https://github.com/Sapphirine/Swift-HAR
