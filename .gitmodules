@@ -1,6 +1,6 @@
 [submodule "ABD-Market-Intelligence-Analysis-Bitcoin-price-Analysis"]
-	path = ABD-Market-Intelligence-Analysis-Bitcoin-price-Analysis
-	url = https://github.com/Sapphirine/ABD-Market-Intelligence-Analysis-Bitcoin-price-Analysis
+path=ABD-Market-Intelligence-Analysis-Bitcoin-price-Analysis
+url = https://github.com/Sapphirine/ABD-Market-Intelligence-Analysis-Bitcoin-price-Analysis
 [submodule "BigDL"]
 path=BigDL
 url = https://github.com/intel-analytics/BigDL
@@ -10,3 +10,6 @@ url = https://github.com/donnemartin/data-science-ipython-notebooks
 [submodule "GPU-accelerated_relational_data_mining_on_single_nodes"]
 path=GPU-accelerated_relational_data_mining_on_single_nodes
 url = https://github.com/Sapphirine/GPU-accelerated_relational_data_mining_on_single_nodes
+[submodule "Swift-HAR"]
+	path = Swift-HAR
+	url = https://github.com/Sapphirine/Swift-HAR
