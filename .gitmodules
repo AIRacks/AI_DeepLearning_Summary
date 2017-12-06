@@ -1,6 +1,6 @@
 [submodule "201705-3-Never-lost-Multicamera-Face-detection-and-tracking"]
-	path = 201705-3-Never-lost-Multicamera-Face-detection-and-tracking
-	url = https://github.com/Sapphirine/201705-3-Never-lost-Multicamera-Face-detection-and-tracking
+path=201705-3-Never-lost-Multicamera-Face-detection-and-tracking
+url = https://github.com/Sapphirine/201705-3-Never-lost-Multicamera-Face-detection-and-tracking
 [submodule "ABD-Market-Intelligence-Analysis-Bitcoin-price-Analysis"]
 path=ABD-Market-Intelligence-Analysis-Bitcoin-price-Analysis
 url = https://github.com/Sapphirine/ABD-Market-Intelligence-Analysis-Bitcoin-price-Analysis
@@ -8,8 +8,8 @@ url = https://github.com/Sapphirine/ABD-Market-Intelligence-Analysis-Bitcoin-pri
 path=BigDL
 url = https://github.com/intel-analytics/BigDL
 [submodule "Company-Analysis-for-Investment-Banking-using-Twitter-Data"]
-	path = Company-Analysis-for-Investment-Banking-using-Twitter-Data
-	url = https://github.com/Sapphirine/Company-Analysis-for-Investment-Banking-using-Twitter-Data
+path=Company-Analysis-for-Investment-Banking-using-Twitter-Data
+url = https://github.com/Sapphirine/Company-Analysis-for-Investment-Banking-using-Twitter-Data
 [submodule "data-science-ipython-notebooks"]
 path=data-science-ipython-notebooks
 url = https://github.com/donnemartin/data-science-ipython-notebooks
@@ -19,6 +19,9 @@ url = https://github.com/Sapphirine/EECS-6895-Stock_Prediction_using_StockTwits_
 [submodule "GPU-accelerated_relational_data_mining_on_single_nodes"]
 path=GPU-accelerated_relational_data_mining_on_single_nodes
 url = https://github.com/Sapphirine/GPU-accelerated_relational_data_mining_on_single_nodes
+[submodule "StockMarketAssistantApp"]
+	path = StockMarketAssistantApp
+	url = https://github.com/Sapphirine/StockMarketAssistantApp
 [submodule "Swift-HAR"]
 path=Swift-HAR
 url = https://github.com/Sapphirine/Swift-HAR
